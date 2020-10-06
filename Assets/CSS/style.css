@@ -2,21 +2,21 @@ h1 {
     font-family: 'Abril Fatface', cursive;
    /* font-family: sans-serif; */
     text-align: center;
-    font-size: 6.5vw;
+    font-size: 5.5vw;
     color: rgb(236, 223, 168);
 
 }
 .header{
     background-color: rgb(57, 87, 177);
 }
-.footer {
+/* .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: rgb(236, 223, 168);
     text-align: center;
-  }
+  } */
 body, html{
     height: 100%;
     width: 100%;
@@ -33,4 +33,7 @@ body, html{
 
 .card{
     margin: 5px;
+}
+h5{
+    text-align: center;
 }
