@@ -29,6 +29,7 @@ body, html{
     border-style: solid;
     border-color:black;
     background-color: slateblue;
+    color: rgb(236, 223, 168);
 }
 
 .card{
